@@ -1,3 +1,6 @@
 optConfig:
   optOutStrategy: true
+  optOutRepos:
+  - .allstar
+  - kokoro-integration-test
 action: issue
